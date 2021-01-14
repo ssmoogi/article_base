@@ -1,9 +1,8 @@
 # article-base-sails-js-tutorial
 🔗 Tutorial: [Build a Sails.js App - Traversy Media](https://youtube.com/playlist?list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm)
 
-
+### SailsJS Framework
 a [Sails v1](https://sailsjs.com) application
-
 
 ### Links
 
@@ -12,7 +11,6 @@ a [Sails v1](https://sailsjs.com) application
 + [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
 + [Community support options](https://sailsjs.com/support)
 + [Professional / enterprise options](https://sailsjs.com/enterprise)
-
 
 ### Version info
 
